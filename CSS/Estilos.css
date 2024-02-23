@@ -6,16 +6,16 @@ body
     font-family: "Tahoma";
     font-size: 16px;
 =======
-    font-family: "Arial";
+    font-family: "Tahoma";
     font-size: 18px;
 >>>>>>> cabecera
     margin: 0;
-    padding: o;
+    padding: 0;
 }
 
 #cabecera
 {
-    background: seagreen;
+    background: blueviolet;
     box-shadow: 0px 2px 20px 0px black;
     color: snow;
     font-weight: bold;
